@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "this is nto to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basit ALi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "superheroes": "^3.0.0"
+  }
+}
